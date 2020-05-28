@@ -1,0 +1,3 @@
+MR Carbuni 2.02.2019 500.5 5 100
+FR resursafinanciara 20.05.2020 60.5 ron
+FR resursafinanciara2 25.06.2021 100.5 eur
